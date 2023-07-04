@@ -1,0 +1,8 @@
+C:\Users\Максим Супер Тестер\source\repos\Двумерная задача\Двумерная задача\bin\Debug\Двумерная задача.exe.config
+C:\Users\Максим Супер Тестер\source\repos\Двумерная задача\Двумерная задача\bin\Debug\Двумерная задача.exe
+C:\Users\Максим Супер Тестер\source\repos\Двумерная задача\Двумерная задача\bin\Debug\Двумерная задача.pdb
+C:\Users\Максим Супер Тестер\source\repos\Двумерная задача\Двумерная задача\obj\Debug\Двумерная задача.csproj.AssemblyReference.cache
+C:\Users\Максим Супер Тестер\source\repos\Двумерная задача\Двумерная задача\obj\Debug\Двумерная задача.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим Супер Тестер\source\repos\Двумерная задача\Двумерная задача\obj\Debug\Двумерная задача.csproj.CoreCompileInputs.cache
+C:\Users\Максим Супер Тестер\source\repos\Двумерная задача\Двумерная задача\obj\Debug\Двумерная задача.exe
+C:\Users\Максим Супер Тестер\source\repos\Двумерная задача\Двумерная задача\obj\Debug\Двумерная задача.pdb
